@@ -1,1 +1,13 @@
 hello Demo!
+1. mkdir test
+2. cd test
+3. git init
+4. git status
+5. git add demo.txt
+6. git commit -m "new"
+7. git config --global user.CVasiliu@healthecareers.com
+8. git remote add origin https://github.com/CVasiliu-EHC/test_demo.git
+9. git push origin master
+
+
+
